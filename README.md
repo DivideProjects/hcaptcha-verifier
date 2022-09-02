@@ -1,5 +1,8 @@
 # hcaptcha-verifier
 
+## Unmaintained ⚠️
+This repository is no longer maintained by us!
+
 A simple API to verify hcaptcha tokens.
 
 ## Deploy your own
